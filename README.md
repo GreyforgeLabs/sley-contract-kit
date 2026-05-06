@@ -84,7 +84,7 @@
 
     Draft description: Validate Sley JSON contracts, inspect schema versions, and catch report drift before editor, workbench, and CI tools depend on unstable shapes.
 
-    Future canonical URL: `https://sley.dev/tools/sley-contract-kit`
+    Future canonical URL: `https://sley.greyforge.tech/tools/sley-contract-kit`
 
     GitHub URL while private: `https://github.com/GreyforgeLabs/sley-contract-kit`
 
