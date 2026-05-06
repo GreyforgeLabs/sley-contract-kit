@@ -2,8 +2,10 @@
 
     Schema inventory, report validation, and contract drift checks for Sley tool authors.
 
-    Status: private Sley ecosystem scaffold. This repository is intentionally
-    built as a detailed starting point before public release.
+Status: private Sley ecosystem scaffold. This repository is intentionally
+built as a detailed starting point before public release.
+
+Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current JS host wrapper is temporary until a Sley emit target is ready.
 
     ## Why This Exists
 

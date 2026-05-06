@@ -21,7 +21,7 @@
   "primary_user": "tool authors and compiler contributors",
   "priority": "P0",
   "schema": "sley.tool.manifest.v0",
-  "status": "private_scaffold",
+  "status": "private_sley_native_source",
   "title": "Sley Contract Kit",
   "utility": "contract validation kit"
 }
