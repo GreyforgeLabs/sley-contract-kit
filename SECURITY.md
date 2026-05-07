@@ -1,6 +1,6 @@
 # Security
 
-`sley-contract-kit` is pre-release private software.
+`sley-contract-kit` is pre-release software.
 
 Do not place secrets, credentials, private endpoints, deployment tokens, or
 provider keys in this repository. Tests must remain deterministic and local.

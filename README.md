@@ -2,8 +2,7 @@
 
     Schema inventory, report validation, and contract drift checks for Sley tool authors.
 
-Status: private Sley ecosystem scaffold. This repository is intentionally
-built as a detailed starting point before public release.
+Status: public Sley ecosystem scaffold. This repository is intended for public use with a stable, versioned contract surface.
 
 Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current JS host wrapper is temporary until a Sley emit target is ready.
 
@@ -70,7 +69,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## Release Policy
 
-    This repository stays private until:
+    This repository is public once:
 
     - consumed Sley schema versions are declared;
     - deterministic local tests pass;
@@ -88,7 +87,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     Future canonical URL: `https://sley.greyforge.tech/tools/sley-contract-kit`
 
-    GitHub URL while private: `https://github.com/GreyforgeLabs/sley-contract-kit`
+    GitHub URL: `https://github.com/GreyforgeLabs/sley-contract-kit`
 
     ## License
 
