@@ -81,11 +81,11 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    Draft SEO title: `Sley Contract Kit - AI-native contract validation`
+    SEO title: `Sley Contract Kit - AI-native contract validation`
 
-    Draft description: Validate Sley JSON contracts for AI-native workflows, inspect schema versions, and catch report drift before editor, workbench, and CI tools depend on unstable shapes.
+    SEO description: Validate Sley JSON contracts, inspect schema versions, and detect report drift before toolchains depend on unstable contract shapes.
 
-    Future canonical URL: `https://sleylang.org/tools/sley-contract-kit`
+    Canonical URL: `https://sleylang.org/tools/sley-contract-kit`
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-contract-kit`
 
