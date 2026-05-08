@@ -85,7 +85,13 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     SEO description: Validate Sley JSON contracts, inspect schema versions, and detect report drift before toolchains depend on unstable contract shapes.
 
+    Keywords: `Sley Contract Kit`, `contract validation`, `schema versioning`, `JSON contracts`, `report drift`, `toolchain safety`
+
     Canonical URL: `https://sleylang.org/tools/sley-contract-kit`
+    - Geo metadata:
+      - Region: United States (US)
+      - Language: English
+      - Audience: AI-native language tooling teams and operators
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-contract-kit`
 
