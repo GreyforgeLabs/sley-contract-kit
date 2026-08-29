@@ -35,6 +35,17 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 - `sley-contract validate --schema sley.verify.report.v0 report.json`
 - `sley-contract check-fixtures ../sley/fixtures/contracts`
 
+    Contract checks require non-empty evidence by default. The narrowly scoped
+    `--allow-empty` option is available only for bootstrap inventory, fixture,
+    and comparison work. Inputs default to 1 MiB per file, 2,048 files, and 64
+    JSON nesting levels; bounded overrides use `--max-bytes`, `--max-files`,
+    and `--max-depth`.
+
+    Exit codes are stable: `0` means the requested evidence passed, `1` means
+    valid evidence showed contract drift, `2` means usage or structured input
+    was invalid, and `3` means an I/O or unexpected runtime failure. Add
+    `--json` for a single valid JSON result or error object without stack traces.
+
     ## Consumed Sley Contracts
 
     This tool treats Loom, the Sley compiler, as the oracle. It consumes these
@@ -81,7 +92,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    SEO title: `Sley Contract Kit - AI-native contract validation`
+    SEO title: `Sley Contract Kit - agent-native contract validation`
 
     SEO description: Validate Sley JSON contracts, inspect schema versions, and detect report drift before toolchains depend on unstable contract shapes.
 
@@ -91,7 +102,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
     - Geo metadata:
       - Region: United States (US)
       - Language: English
-      - Audience: AI-native language tooling teams and operators
+      - Audience: agent-native language tooling teams and operators
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-contract-kit`
 

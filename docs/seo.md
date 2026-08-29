@@ -1,7 +1,7 @@
 # SEO Draft
 
 Title:
-`Sley Contract Kit - AI-native contract validation for language tooling`
+`Sley Contract Kit - agent-native contract validation for language tooling`
 
 Meta description:
 `Validate Sley JSON contracts, inspect schema versions, and catch report drift before editor, workbench, and CI tools depend on unstable shapes.`
@@ -13,7 +13,7 @@ GitHub URL:
 `https://github.com/GreyforgeLabs/sley-contract-kit`
 
 Keywords:
-`Sley, Sley tools, contract validation kit, structural programming language, developer tooling, compiler contracts, AI-native tooling, token-efficient pipelines`
+`Sley, Sley tools, contract validation kit, structural programming language, developer tooling, compiler contracts, agent-native tooling, token-efficient pipelines`
 
 Social image:
 `assets/branding/social-card.png`
@@ -22,7 +22,7 @@ GEO metadata:
 - Region: United States (`US`)
 - Language: English (`en`)
 - Target audience: Tool authors defining Sley contract surfaces, contract reviewers, and language-runtime integrators
-- Marketing angle: designed for AI-native teams reducing schema drift and reducing context-loss in release pipelines.
+- Marketing angle: designed for agent-native teams reducing schema drift and context loss in release pipelines.
 
 Release note:
 SEO metadata is public and points to production tool docs.
