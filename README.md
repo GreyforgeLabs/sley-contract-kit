@@ -1,3 +1,15 @@
+# Migrated to Sley Legacy
+
+> [!IMPORTANT]
+> This Sley 1.x repository is preserved as a historical tombstone. Development
+> moved to [`ecosystem/contract-kit/` in Sley Legacy](https://github.com/GreyforgeLabs/sley-legacy/tree/public/ecosystem/contract-kit).
+> Existing history, tags, and links remain here. Active Sley development is the
+> intentionally incompatible machine-native 2.x lineage at
+> [`GreyforgeLabs/sley`](https://github.com/GreyforgeLabs/sley). This tool is not
+> native Sley 2 tooling.
+
+---
+
     # Sley Contract Kit
 
     Schema inventory, report validation, and contract drift checks for Sley tool authors.
